@@ -1,1 +1,1 @@
-# Game-Numearo-Sorteado
+# Game-Numero-Sorteado
